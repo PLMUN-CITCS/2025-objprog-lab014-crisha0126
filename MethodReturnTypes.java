@@ -1,5 +1,5 @@
 public class MethodReturnTypes.java {
-  public static void (string[] args) {
+  public static void main (String[] args) {
     displayWelcomeMessage();
 
   int value1 = 20;
