@@ -5,7 +5,7 @@ public class MethodReturnTypes {
   int value1 = 20;
   int value2 = 30;
   double result = calculateAverage(value1, value2);
-    System.out.printIn("The average is; " + result);
+    System.out.printIn("The average is:" + result);
   }
   public static void displayWelcomeMessage() {
     System.out.printIn("Welcome to our program!");
